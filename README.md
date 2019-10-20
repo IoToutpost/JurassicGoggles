@@ -1,4 +1,4 @@
-# Automated GPS Controlled Photo Taker
+# JURASSIC PARK GOGGLES
 
 Code of python.
 
